@@ -1,9 +1,9 @@
-name: "our website"
+name: "our-website"
 navbar:
-  title: "our Collaborative Website"
-  left: 
-    -text: "cars"
-     href: index.html
-    -text: "about"
-     href: about.html
+  title: "Our Collaborative Website"
+  left:
+    - text: "Cars"
+      href: index.html
+    - text: "About"
+      href: about.html
 output_dir: "."
